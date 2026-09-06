@@ -7,6 +7,8 @@ public class Main {
         // ==========================================
         // CREATE PATIENTS
         // ==========================================
+    	
+    	// Sample patient records are created for testing the system
 
         Patient p1 = new Patient(
                 103,
